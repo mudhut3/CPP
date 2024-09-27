@@ -1,2 +1,2 @@
-# Web-Dev-Projects
-repository for projects to practice web development full stack
+#Computer science undergraduate project repository for all my courses 
+
