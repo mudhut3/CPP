@@ -1,2 +1,2 @@
-#Computer science undergraduate project repository for all my courses 
+# undergrad Computer science project repository for all my courses 
 
